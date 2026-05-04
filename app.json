@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "INNER",
+    "slug": "inner-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "inner",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "co.inner.app"
+    },
+    "android": {
+      "package": "co.inner.app"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
