@@ -482,11 +482,7 @@ npx expo start --clear
   <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 47 PM" src="https://github.com/user-attachments/assets/bbde6fdf-221b-4869-b94f-4ccfaa22a87e" />
   <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 47 PM (1)" src="https://github.com/user-attachments/assets/9c20d1d3-dedb-470e-a3c7-63d3b5a1d768" />
 </p>
-<p align="center">
-  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 46 PM (2)" src="https://github.com/user-attachments/assets/827a3908-1e19-47d8-a178-c3ad3604644b" />
-  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 47 PM" src="https://github.com/user-attachments/assets/bbde6fdf-221b-4869-b94f-4ccfaa22a87e" />
-  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 47 PM (1)" src="https://github.com/user-attachments/assets/9c20d1d3-dedb-470e-a3c7-63d3b5a1d768" />
-</p>
+
 <p align="center">
   <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 47 PM (2)" src="https://github.com/user-attachments/assets/7420134d-f948-47b3-ae65-c58d080674b0" />
   <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 48 PM" src="https://github.com/user-attachments/assets/3bb84b27-d08b-43ae-918a-297a51e2e4dc" />
