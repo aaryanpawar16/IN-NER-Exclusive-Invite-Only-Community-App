@@ -473,11 +473,26 @@ npx expo start --clear
 
 
 <p align="center">
-  <img wwidth="250" alt="WhatsApp Image 2026-05-05 at 4 59 45 PM (2)" src="https://github.com/user-attachments/assets/47419d60-200c-4b7c-9d84-badc5a82ce0b" />
+  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 45 PM (2)" src="https://github.com/user-attachments/assets/47419d60-200c-4b7c-9d84-badc5a82ce0b" />
   <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 46 PM" src="https://github.com/user-attachments/assets/423b0551-cbe6-4f20-963a-788673481697" />
   <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 46 PM (1)" src="https://github.com/user-attachments/assets/b609e762-339b-4f75-ac66-804530a3ac91" />
-
 </p>
+<p align="center">
+  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 46 PM (2)" src="https://github.com/user-attachments/assets/827a3908-1e19-47d8-a178-c3ad3604644b" />
+  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 47 PM" src="https://github.com/user-attachments/assets/bbde6fdf-221b-4869-b94f-4ccfaa22a87e" />
+  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 47 PM (1)" src="https://github.com/user-attachments/assets/9c20d1d3-dedb-470e-a3c7-63d3b5a1d768" />
+</p>
+<p align="center">
+  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 46 PM (2)" src="https://github.com/user-attachments/assets/827a3908-1e19-47d8-a178-c3ad3604644b" />
+  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 47 PM" src="https://github.com/user-attachments/assets/bbde6fdf-221b-4869-b94f-4ccfaa22a87e" />
+  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 47 PM (1)" src="https://github.com/user-attachments/assets/9c20d1d3-dedb-470e-a3c7-63d3b5a1d768" />
+</p>
+<p align="center">
+  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 47 PM (2)" src="https://github.com/user-attachments/assets/7420134d-f948-47b3-ae65-c58d080674b0" />
+  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 48 PM" src="https://github.com/user-attachments/assets/3bb84b27-d08b-43ae-918a-297a51e2e4dc" />
+  <img width="250"  alt="WhatsApp Image 2026-05-05 at 4 59 48 PM (1)" src="https://github.com/user-attachments/assets/1e70fc99-d105-44bb-8f94-7933765a68f8" />
+</p>
+
 ## Design System
 
 The app uses a warm editorial aesthetic inspired by luxury print media.
