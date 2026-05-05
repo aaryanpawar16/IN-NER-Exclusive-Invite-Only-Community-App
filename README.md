@@ -471,6 +471,13 @@ npx expo start --clear
   <img src="https://github.com/user-attachments/assets/16efab2a-7147-413f-9147-caf1dc3c41d9" width="250"/>
 </p>
 
+
+<p align="center">
+  <img wwidth="250" alt="WhatsApp Image 2026-05-05 at 4 59 45 PM (2)" src="https://github.com/user-attachments/assets/47419d60-200c-4b7c-9d84-badc5a82ce0b" />
+  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 46 PM" src="https://github.com/user-attachments/assets/423b0551-cbe6-4f20-963a-788673481697" />
+  <img width="250" alt="WhatsApp Image 2026-05-05 at 4 59 46 PM (1)" src="https://github.com/user-attachments/assets/b609e762-339b-4f75-ac66-804530a3ac91" />
+
+</p>
 ## Design System
 
 The app uses a warm editorial aesthetic inspired by luxury print media.
