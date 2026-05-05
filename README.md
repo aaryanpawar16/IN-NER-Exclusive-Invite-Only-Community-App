@@ -465,13 +465,7 @@ npx expo start --clear
 
 ## Screenshots
 
-<img width="300" height="500" alt="WhatsApp Image 2026-05-05 at 4 59 44 PM" src="https://github.com/user-attachments/assets/209e9b9f-2af6-41ca-9d36-1a4444d0d122" />
-
-
-<img width="300" height="500" alt="WhatsApp Image 2026-05-05 at 4 59 45 PM" src="https://github.com/user-attachments/assets/307c3375-ac68-479c-9216-1ffc7e71e28c" />
-
-
-<img width="300" height="500" alt="WhatsApp Image 2026-05-05 at 4 59 45 PM (1)" src="https://github.com/user-attachments/assets/16efab2a-7147-413f-9147-caf1dc3c41d9" />
+<img width="300" height="500" alt="WhatsApp Image 2026-05-05 at 4 59 44 PM" src="https://github.com/user-attachments/assets/209e9b9f-2af6-41ca-9d36-1a4444d0d122" /> <img width="300" height="500" alt="WhatsApp Image 2026-05-05 at 4 59 45 PM" src="https://github.com/user-attachments/assets/307c3375-ac68-479c-9216-1ffc7e71e28c" /> <img width="300" height="500" alt="WhatsApp Image 2026-05-05 at 4 59 45 PM (1)" src="https://github.com/user-attachments/assets/16efab2a-7147-413f-9147-caf1dc3c41d9" />
 
 ## Design System
 
