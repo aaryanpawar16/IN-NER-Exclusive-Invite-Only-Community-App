@@ -2,6 +2,8 @@
 
 > A curated community for professionals, artists, and thinkers who believe in the value of intentional connection.
 
+🎥 **Watch Demo:**  
+https://youtu.be/Hl0lnt9T8uw?si=Qr1RGB9bQEMR6x5e
 ---
 
 ## Table of Contents
